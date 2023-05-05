@@ -1,4 +1,3 @@
-
 /*!
  * baguetteBox.js
  * @author  feimosi
