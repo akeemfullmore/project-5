@@ -8,18 +8,19 @@ body {
 .gallery {
     display: grid;
     margin: 45px auto;
+    margin-top: 25px;
     max-width: 1000px;
     grid-template-columns: repeat(auto-fill, 200px);
     grid-template-rows: 200px;
     grid-gap: 20px;
     justify-content: center;
-    margin-top: 25px;
 }
 .search-box {
     display: flex;
     justify-content: center;
-    line-height: 2;
+    margin-top: 20px;
 }
 input {
  flex-basis: 500px;
+ height: 45px;
 }
